@@ -1,0 +1,10 @@
+**/*.ts
+**/*.js.map
+!**/*.d.ts
+tsconfig.json
+
+scripts
+**/tests
+**/test
+.babelrc
+.mocharc.yml

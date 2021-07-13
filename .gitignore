@@ -1,0 +1,8 @@
+**/*.js
+**/*.js.map
+**/*.d.ts
+!typings/*
+
+node_modules
+package-lock.json
+yarn.lock
